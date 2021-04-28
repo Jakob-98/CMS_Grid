@@ -34,10 +34,10 @@ export default {
   position: relative;
 
   &__header {
-    margin-left: calc(var(--space) * -0.5);
-    margin-right: calc(var(--space) * -0.5);
-    margin-bottom: calc(var(--space) / 4);
-    margin-top: calc(var(--space) * -0.5);
+    margin-left: calc(var(--space) * -1);
+    margin-right: calc(var(--space) * -1);
+    margin-bottom: calc(var(--space) / 2);
+    margin-top: calc(var(--space) * -1);
     overflow: hidden;
     border-radius: var(--radius) var(--radius) 0 0;
 
@@ -47,9 +47,7 @@ export default {
   }
 
   &__image {
-    min-width: 75%;
-    max-width: 100%;
-    max-height: 300px;   
+    min-width: 100%;
   }
 
   &__title {
@@ -58,7 +56,7 @@ export default {
 
   &:hover {
     transform: translateY(-5px);
-    box-shadow: 1px 5px 15px 0 rgba(0,0,0,.1);
+    box-shadow: 1px 10px 30px 0 rgba(0,0,0,.1);
   }
 
   &__tags {
