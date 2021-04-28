@@ -6,11 +6,12 @@
 		</h1>
 
 		<p class="author__intro">
-
+			test123
 		</p>
 
 		<p class="author__links">
-			<a href="//twitter.com/JSerlier">Follow on Twitter</a>
+			<!-- <a href="//twitter.com/JSerlier">Twitter</a> -->
+			<a href="//Linkedin.com/in/Serlier">LinkedIn</a>
 			<a href="https://github.com/Jakob-98">GitHub</a>
 		</p>
 
