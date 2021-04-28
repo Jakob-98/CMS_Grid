@@ -2,8 +2,7 @@
 title: Testing 123
 date: 2021-04-28T07:16:40.395Z
 published: true
-tags:
-  - name: tag
+tags: []
 cover_image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/PM5544_with_non-PAL_signals.png/200px-PM5544_with_non-PAL_signals.png
 description: This is the test description
 ---
